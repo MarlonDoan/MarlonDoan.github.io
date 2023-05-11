@@ -2,7 +2,7 @@
 
 This is my home page! My name is Marlon Doan and I am a student at Cal State Fullerton and my major is Computer Science.
 
-### Computer Science Projects 
+## Computer Science Projects 
 
 My GitHub page is https://github.com/MarlonDoan
 
